@@ -1,0 +1,15 @@
+{
+  "name": "scraper",
+  "version": "1.0.0",
+  "description": "simple web scraper for price monitoring",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Neagu Mihai",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "*",
+    "puppeteer": "^9.0.0"
+  }
+}
